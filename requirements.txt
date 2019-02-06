@@ -1,0 +1,4 @@
+colorama==0.4.1
+Pillow==5.4.1
+termcolor==1.1.0
+z3-solver==4.8.0.0.post1
